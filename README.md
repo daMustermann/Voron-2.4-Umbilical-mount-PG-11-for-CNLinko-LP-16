@@ -7,7 +7,7 @@ This project provides an umbilical mount for PG-11 threads. I sourced LP-16 conn
 Special thanks to:
 
 - [Minsekt](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Minsekt/Rear_Umbilical) for the initial inspiration and sources.
-- [hartk](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202-Trident/2.4/CW2_SB2040_CAN_Umbilical) for additional sources and inspiration.
+- [hartk](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202-Trident/2.4/CW2_CAN_Umbilical) for additional sources and inspiration.
 
 ## Mount Details
 
